@@ -1,5 +1,5 @@
 # conversation_analysis
-We'll analyst chat transcript between 2 agents regarding articles published in the Washington post and these can be of different types of articles.
+We'll analise chat transcript between 2 agents regarding articles published in the Washington post and these can be of different types of articles.
 
 
 This repository contains the implementation of a data science assignment for BiztelAI. The goal of this project is to demonstrate the ability to write production-level Python code, build APIs, and develop AI-driven solutions for real-world SaaS applications.
